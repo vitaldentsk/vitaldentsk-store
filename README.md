@@ -1,13 +1,7 @@
-VITALDENTSK STORE V1
+VITALDENTSK FINAL STORE
 
-Upload the CONTENTS of this folder directly to the root of vitaldentsk-store.
-All image files are intentionally in the repository root to avoid GitHub Pages path issues.
+GitHub Pages-ready. Upload the CONTENTS of this ZIP directly into the root of vitaldentsk-store.
 
-Files:
-index.html
-styles.css
-script.js
-hero.jpg
-product1.jpg through product6.jpg
+All JPG files intentionally stay in the repository root to prevent broken image paths.
 
-Product names, prices and shipping language are presentation/demo content until finalized.
+NOTE: Product names, prices, shipping threshold, secure-checkout wording, and support copy are demo storefront content until the business finalizes its actual policies and commercial details.

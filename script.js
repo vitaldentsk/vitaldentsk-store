@@ -1,1 +1,1 @@
-let n=0;const c=document.getElementById('cart');document.querySelectorAll('.grid button').forEach(b=>b.onclick=()=>{c.textContent=++n;b.textContent='ADDED ✓';setTimeout(()=>b.textContent='ADD TO CART',900)});
+let count=0;const cart=document.getElementById('cart');document.querySelectorAll('.grid button').forEach(btn=>btn.addEventListener('click',()=>{count++;cart.textContent=count;btn.textContent='✓ Added to Cart';setTimeout(()=>btn.textContent='🛒   Add to Cart',900)}));
