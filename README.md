@@ -1,7 +1,8 @@
-VITALDENTSK — NO HEARTS FINAL
+VITALDENTSK CLEAN WEB FINAL
 
-Esta versión elimina los corazones incrustados directamente en las imágenes JPG
-y también cualquier corazón añadido por HTML.
+No favorite-heart overlays are included in the HTML product cards.
+The product images were newly extracted from the clean design.
 
-Sube y REEMPLAZA index.html, styles.css, script.js, hero.jpg y product1.jpg-product6.jpg
-en la raíz del repositorio vitaldentsk-store.
+Upload ALL extracted files to the root of vitaldentsk-store and replace the old versions.
+
+Commercial prices and shipping claims are demo content until finalized.
